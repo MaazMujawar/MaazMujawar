@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: burlywood;
+}
+#name{
+    text-align: center;
+    padding-top: 20px ;
+    padding-bottom: 20px;
+}
+
+#image{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+/* 
+#SKILLLS{
+    text-align: center;
+    padding: 20px;
+} */
